@@ -1,0 +1,20 @@
+Employee-Performance-Analysis
+│
+├── data
+│   └── employee_performance.csv
+│
+├── notebook
+│   └── Employee_Performance_Analysis.ipynb
+│
+├── visuals
+│   ├── performance_distribution.png
+│   ├── department_performance.png
+│   ├── salary_vs_performance.png
+│   └── attendance_vs_performance.png
+│
+├── report
+│   └── Project_Report.pdf
+│
+├── requirements.txt
+│
+└── README.md
